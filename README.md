@@ -1,6 +1,6 @@
 # HIPT(Hierarchical Image Pyramid Transformer)论文及库的理解应用
 
-本库的原始代码请参照[HIPT](https://github.com/mahmoodlab/HIPT)，其对应的CVPR论文为[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Scaling_Vision_Transformers_to_Gigapixel_Images_via_Hierarchical_Self-Supervised_Learning_CVPR_2022_paper.pdf)。 编写此库的原因主要是为了记录学习使用的过程，这不是成熟的代码/笔记库，而是自己学习的过程。
+HIPT原始库请参照[HIPT](https://github.com/mahmoodlab/HIPT)，其对应的CVPR论文为[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Scaling_Vision_Transformers_to_Gigapixel_Images_via_Hierarchical_Self-Supervised_Learning_CVPR_2022_paper.pdf)。 编写此库的原因主要是为了记录学习使用的过程，这不是成熟的代码/笔记库，而是自己学习的过程。
 
 
 
